@@ -16,3 +16,4 @@ dist/
 *.pcap
 *.tsv
 *.csv
+*.npy
