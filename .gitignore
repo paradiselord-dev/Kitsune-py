@@ -1,0 +1,18 @@
+# Python / Virtual Environments
+.venv/
+venv/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cython / Build artifacts
+*.so
+build/
+dist/
+*.egg-info/
+
+# Network data captures and output files
+*.pcap
+*.tsv
+*.csv
