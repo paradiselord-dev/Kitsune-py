@@ -17,3 +17,13 @@ dist/
 *.tsv
 *.csv
 *.npy
+.venv/
+__pycache__/
+*.pyc
+*.pcap
+*.pcap.tsv
+*.pcapng
+*.zip
+*.csv
+.DS_Store
+Thumbs.db
